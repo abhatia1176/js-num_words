@@ -1,4 +1,4 @@
-function myUtils() {
+myUtils = function () {
 let utils = {};
 
 /* eslint-disable eqeqeq */
